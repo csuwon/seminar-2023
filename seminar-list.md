@@ -98,7 +98,7 @@
 |  이수인         |   silee1103@snu.ac.kr                |            |            |            |
 |   박채연        |   kidsland09@naver.com                |            |            |            |
 |  백창인         |  nuagenic@gmail.com                 |            |            |            |
-|  최승원         |   csw020730@gmail.com                |            |            |            |
+|  최승원         |   csw020730@gmail.com    안드로이드            |            |            |
 |  조민경         |   oke08034@snu.ac.kr                |            |            |            |
 |  나예경         |   nyk7535@naver.com                |            |            |            |
 |   강우진        |    wj0107@naver.com               |            |            |            |
